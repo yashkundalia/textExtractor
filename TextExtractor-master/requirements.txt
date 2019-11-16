@@ -1,0 +1,6 @@
+requests
+flask
+fpdf
+pdf2image
+matplotlib
+gunicorn
